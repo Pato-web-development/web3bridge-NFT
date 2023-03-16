@@ -1,0 +1,12 @@
+{
+    "name": "my nft",
+    "description": "This is a our web3bridge collection!",
+    "image": "https://ipfs.filebase.io/ipfs/QmPQ9HCk79ttq2wBU6agUm9yRDCTUs12XDay9s2brPUqJ9",
+    "attributes": [
+      {
+        "trait_type": "Wallpaper",
+        "value": "web3bridge wallpaper"
+      }
+      
+    ]
+  }
